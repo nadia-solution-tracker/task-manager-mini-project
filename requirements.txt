@@ -5,3 +5,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.4
 itsdangerous==1.1.0
 Flask-PyMongo==2.3.0
+dnspython=1.16.0
